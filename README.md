@@ -8,4 +8,4 @@ Select K best is a function that identifies n number of features in terms of ran
 
 Chi square is a scoring function. It is a computation of the test of significance of interaction between the two variables..
 
-UNF (Univariate Feature Selection) : Take a feature at a time, take the outcome variable, measure relationship between feature and outcome, and put a score on it.
+UNF (Univariate Feature Selection) : Taking a feature at a time, take the outcome variable, measure relationship between feature and outcome, and put a score on it.
